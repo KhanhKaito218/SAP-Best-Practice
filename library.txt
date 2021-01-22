@@ -1,0 +1,17 @@
+{
+"categories":{
+}
+,
+"entity_filename":"entity.txt",
+"root":{
+"type":"Ref",
+"tclass":"book",
+"uid":"BO_26C8D295E6E7BA85",
+"caption":"SAP SuccessFactors Performance Management Administration (HR827)",
+"context_id":"",
+"roles":"",
+"context_info":"",
+"filter":[
+]
+}
+}
